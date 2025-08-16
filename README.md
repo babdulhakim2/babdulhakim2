@@ -1,14 +1,6 @@
 ## Hi there 👋
 
-<!--
-**babdulhakim2/babdulhakim2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...# 💫 About Me:
+# 💫 About Me:
 <br>- 🤖 I'm currently working on **AI projects focused on coding agents**<br>- 🤝 I'm looking to **collaborate on building and evaluating coding agents**<br>- 🧠 I'm currently learning **Rust**<br>- 📊 Ask me about **benchmarks and evaluation for coding agents**<br>- 🥋 Fun fact: **I love martial arts and practice daily**<br><br>
 
 
@@ -26,8 +18,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=babdulhakim2&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
